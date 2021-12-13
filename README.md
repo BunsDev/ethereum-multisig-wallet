@@ -1,6 +1,6 @@
 # ethereum-multisig-wallet
 
-Project Initialization, execute within the workingdirectory:
+Project Initialization, execute within the working directory:
 - npm init
 - truffle init
 
